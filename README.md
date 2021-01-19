@@ -2,10 +2,13 @@
 
 ## Link to Live Project and Project Image
 IMAGE 1
+- - -
 ![Screenshot of Final Project 1](https://github.com/tutchings/18_BudgetTrackerPWA/blob/master/readme_imgs/budgetTracker1.PNG)
 
 IMAGE 2
+- - -
 ![Screenshot of Final Project 2](https://github.com/tutchings/18_BudgetTrackerPWA/blob/master/readme_imgs/budgetTracker2.PNG)
+- - -
 
 [Deployed Website Link](https://workout-tracker-dashboard.herokuapp.com/)
 
