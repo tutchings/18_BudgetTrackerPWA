@@ -1,8 +1,8 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
 ## Link to Live Project and Project Image
-![Screenshot of Final Project 1](https://github.com/tutchings/17_fitnessTracker/blob/master/README_Imgs/fitnessTracker1.PNG)
-![Screenshot of Final Project 2](https://github.com/tutchings/17_fitnessTracker/blob/master/README_Imgs/fitnessTracker2.PNG)
+![Screenshot of Final Project 1](https://github.com/tutchings/18_BudgetTrackerPWA/blob/master/readme_imgs/budgetTracker1.PNG)
+![Screenshot of Final Project 2](https://github.com/tutchings/18_BudgetTrackerPWA/blob/master/readme_imgs/budgetTracker2.PNG)
 
 [Deployed Website Link](https://workout-tracker-dashboard.herokuapp.com/)
 
