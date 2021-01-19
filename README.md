@@ -1,5 +1,13 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
+## Link to Live Project and Project Image
+![Screenshot of Final Project 1](https://github.com/tutchings/17_fitnessTracker/blob/master/README_Imgs/fitnessTracker1.PNG)
+![Screenshot of Final Project 2](https://github.com/tutchings/17_fitnessTracker/blob/master/README_Imgs/fitnessTracker2.PNG)
+
+[Deployed Website Link](https://workout-tracker-dashboard.herokuapp.com/)
+
+## Assignment
+
 Add functionality to our existing Budget Tracker application to allow for offline access and functionality.
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
