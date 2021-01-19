@@ -1,6 +1,6 @@
 # Unit 18 PWA Homework: Online/Offline Budget Trackers
 
-## Link to Live Project and Project Image
+## Link to Live Project and Project Images
 IMAGE 1
 - - -
 ![Screenshot of Final Project 1](https://github.com/tutchings/18_BudgetTrackerPWA/blob/master/readme_imgs/budgetTracker1.PNG)
