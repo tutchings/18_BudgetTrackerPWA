@@ -10,7 +10,7 @@ IMAGE 2
 ![Screenshot of Final Project 2](https://github.com/tutchings/18_BudgetTrackerPWA/blob/master/readme_imgs/budgetTracker2.PNG)
 - - -
 
-[Deployed Website Link](https://workout-tracker-dashboard.herokuapp.com/)
+[Deployed Website Link](https://budget-tracker-18-pwa.herokuapp.com/)
 
 ## Assignment
 
